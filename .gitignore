@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#Audio Files
+*.wav
+*.mp3
+*.flac
+*.odg
